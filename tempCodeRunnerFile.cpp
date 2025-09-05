@@ -1,10 +1,2 @@
- for(int i=getpivot;i<n-1;i++){
-       if ( arr[i]==key){
-        return i;
-       }
-       
-    } return -1;
-   }
-   else {arr[0]<=key<=arr
-
-   }
+v.push_back(2);
+    // cout<<"size-->"<<v.capacity()<<endl;
